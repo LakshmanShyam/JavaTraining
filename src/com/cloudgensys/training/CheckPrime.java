@@ -25,9 +25,9 @@ public class CheckPrime {
 		boolean isPrime = checkPrime.isPrime(number);
 		
 		if(isPrime){
-			System.out.println("This" + number + " : is Prime");
+			System.out.println("The number " + number + " : is a Prime");
 		}else{
-			System.out.println("This" + number + " : is not prime");
+			System.out.println("The number " + number + " : is not prime");
 		}
 	}
 
