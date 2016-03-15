@@ -5,7 +5,7 @@ import org.omg.Messaging.SYNC_WITH_TRANSPORT;
 public class Greet {
 
 	public static String greetMe = "Hi Shyam";
-	public static String greetTeam = "Hi Team";
+	public static String greetTeam = "Hello Team";
 	public static String greetEveryOne = "Hello World !!!";
 	
 	public String greetWithTime = "Hello team : the time is" + System.currentTimeMillis();
